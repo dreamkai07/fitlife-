@@ -6,26 +6,26 @@ The platform combines essential fitness tracking features with a unique **traine
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- 🏋️ **Exercise Recommendation System**  
+-  **Exercise Recommendation System**  
   Personalized workout suggestions based on user goals and fitness level.
 
-- 💧 **Water Intake Tracker**  
+-  **Water Intake Tracker**  
   Track daily hydration with simple and interactive logging.
 
-- 🎯 **Goal Setting & Progress Tracking**  
+-  **Goal Setting & Progress Tracking**  
   Set fitness goals and monitor progress over time.
 
-- 🤝 **Trainer–Trainee Marketplace (Core Feature)**  
+-  **Trainer–Trainee Marketplace (Core Feature)**  
   Trainers can list their availability and users can hire them instantly or book trial sessions.
 
-- 📍 **Nearby Gym Listings**  
+-  **Nearby Gym Listings**  
   Discover gyms with ratings and location details.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend (Planned):** Java (Spring Boot)  
@@ -33,13 +33,13 @@ The platform combines essential fitness tracking features with a unique **traine
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The goal of FitLife is to bridge the gap between fitness tracking applications and real-time trainer accessibility by providing a unified platform for both.
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 - AI-based workout and diet recommendations  
 - Integration with wearable devices  
@@ -48,10 +48,10 @@ The goal of FitLife is to bridge the gap between fitness tracking applications a
 
 ---
 
-## 👥 Team Project
+##  Team Project
 
 This project is being developed as a collaborative capstone project, with each team member contributing to different modules such as frontend, backend, database design, and feature development.
 
 ---
 
-✨ *FitLife aims to make fitness smarter, more accessible, and more personalized.*
+ *FitLife aims to make fitness smarter, more accessible, and more personalized.*
